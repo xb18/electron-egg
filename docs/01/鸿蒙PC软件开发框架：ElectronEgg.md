@@ -14,6 +14,10 @@ ElectronEgg 自开源以来，愿景很简单：**让所有开发者都能学会
 
 ![ElectronEgg 官网展示的跨平台桌面软件开发能力](./ee-example-1.png)
 
+真机实测如图
+
+![ElectronEgg 文档中的 HarmonyOS 鸿蒙支持说明](./ee-example-7.png)
+
 v5 在这个基础上做了一次整体升级，其中我们花力气最多的一件事，就是让 ElectronEgg 能跑在鸿蒙设备上。目前还是**测试阶段**，但整条流程已经跑通了。
 
 ### 1.1 鸿蒙支持：一套代码，跑在 HarmonyOS 上
